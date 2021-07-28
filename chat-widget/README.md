@@ -9,7 +9,6 @@
   {
     "entity" : "app",
     "channelId" : "MeherYWebsite",
-    "channelToken" : "xxxxxxxxxxx",
     "config" : {
       //Optional Config   
     }
@@ -22,7 +21,6 @@
   {
     "entity" : "<entity>",
     "channelId" : "<channelId>",
-    "channelToken" : "<channelToken>",
     "config" : {
       "header.bg.color" : "#000",
       "header.text.color" : "#ffffff",
